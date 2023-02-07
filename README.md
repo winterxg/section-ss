@@ -1,3 +1,4 @@
+> 官网 https://www.section.io/
 ## section上部署ss with v2ray plugin
 由于section禁用了ws请求，所以只好用走http的ss协议
 
